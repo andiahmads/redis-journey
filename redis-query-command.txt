@@ -1,0 +1,6 @@
+# penamaan database pada redis dengan menggunakan angka
+select (database)
+
+
+
+ 
